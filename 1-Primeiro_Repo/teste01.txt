@@ -1,2 +1,5 @@
 Este é o primeiro comando de Git
---- Seja Bem vindo modificando
+--- Seja Bem vindo modificandogit
+
+
+Adicionando paragráfo
